@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
+name: bugzigus
+description: I am just too cool
