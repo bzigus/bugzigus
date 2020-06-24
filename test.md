@@ -2,4 +2,4 @@ layout: page
 title: "test page"
 permalink: /test/
 
-#This IS A TEST!!!
+<h1>hi I'm a chicken</h1>
